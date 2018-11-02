@@ -1,9 +1,11 @@
 #SYLLABUS
 
 
-· **Intitulé de la formation** : Initiation au code pour créer son propre site web
-· **Volume horaire** : 8h de cours + 15h de projets
-· **Enseignant** : Félix Gaudé pour le cours, vous-mêmes pour les projets
+* **Intitulé de la formation** : Initiation au code pour créer son propre site web
+
+* **Volume horaire** : 8h de cours + 15h de projets
+
+* **Enseignant** : Félix Gaudé pour le cours, vous-mêmes pour les projets
 
 
 **Description du cours**
@@ -11,6 +13,7 @@ Avec The Hacking Project, devenez un boucanier et découvrez les bases de l’in
 Vous allez travailler ensemble en petits groupes, et découvrir l’écran noir avec des projets concrets, l’apprentissage en communauté, et l’entraide entre élèves.
 
 **Programme et calendrier du cours**
+
 Ce programme n’est pas définitif et peut être modifié en fonction des envies des élèves.
 
 **Séance 1**
@@ -40,6 +43,7 @@ Projet : Faire un projet à plusieurs et le mettre sur GitHub
 
 
 **Objectif du cours**
+
 Le cours a pour but principal de faire découvrir le monde des sites webs et de l’informatique. 
 
 À la fin, les étudiants seront capables de : 
@@ -60,10 +64,12 @@ De plus, avec la pédagogie de l’éducation de pairs, les étudiants seront ca
 
 
 **Exemple de projet**
+
 Réaliser à plusieurs un site internet au format landing page pour présenter une idée de startup et le mettre en ligne.
 
 
 **Bibliographie succincte**
+
 Chacon, Scott ; Straub, Ben. Pro Git. Apress. 2014. 456 pages
 
 Hartl, Michael. Learn Enough Command Line to Be Dangerous: A tutorial introduction to the Unix command line. Softcover. 2016. 85 pages.
@@ -72,14 +78,20 @@ Nebra, Mathieu. Réalisez votre site web avec HTML 5 et CSS 3. OpenClassrooms. 2
 
 
 **Langue d’enseignement**
+
 Le cours est conçu pour des élèves français ; mais le monde de l’informatique étant majoritairement anglo-saxon, il y aura un peu d’anglais dans les ressources.
 
 **Matériel**
 Pour le cours, vous aurez besoin d’un ordinateur.
 
 * Voici les différents logiciels à installer :
+
 * Un terminal
+
  Déjà installé sur macOS et Linux
+
  Cygwin sur Windows
+
 * Un éditeur de texte
+
  Sublime Text ou Visual Studio Code
