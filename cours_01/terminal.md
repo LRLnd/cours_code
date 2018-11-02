@@ -14,7 +14,7 @@ Le terminal est ce que l'on appelle plus communément un interpréteur de comman
 À la base, les ordinateurs tournaient sans interface graphique, donc les utilisateurs passaient exclusivement par les **CLI**. Avec l'arrivée des systèmes d'exploitation graphiques (_Windows_, _Apple_, _Linux_), le **CLI** n'a pas perdu en popularité, puisqu'il permet de faire des tâches extrêmement précises.
 En gros, c'est une version texte de l'explorateur de fichiers : on peut ouvrir des dossiers, créer des fichiers, les lancer, les renommer, installer des programmes, et bien d'autres choses. On dit que c'est une **CLI** (_Command Line Interface_), comparée à la **GUI** (_Graphical User Interface_) de l'explorateur normal. Tout est fait via clavier, donc pas besoin de souris dans le terminal.
 ### 1.3. Le terminal
-1.3.1. #### Qu'est-ce que le terminal ?
+#### 1.3.1. Qu'est-ce que le terminal ?
 Le terminal est un outil intimidant aux premiers abords, mais au final se révèle pas compliqué. J'ai réalisé une vidéo qui explique le terminal :
  
 #### 1.3.2. Comment le lancer ?
