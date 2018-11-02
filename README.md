@@ -5,4 +5,3 @@ Nous avons reçu un lien internet :  (https://trello.com/b/WMrPLmHV/introduction
 _Monsieur Félix Gaudé_ nous a premièrement, présenté le projet avec deux professeurs encadrants. Cependant, se sont les élèves participant à ce cours qui nous ont aidés à répondre à nos questions. Nous nous sommes donc entraidés au travers du Slack. 
 
 Dans le cadre de notre licence, nous avions à choisir une **option transversale**. Le choix de ce cours nous a paru évident puisque ce dernier nous permettra d’acquérir des capacités qui seront nécessaires dans le monde du travail. Et qui de plus s’insèrent tout à fait dans nos projets professionnels. 
-
